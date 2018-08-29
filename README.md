@@ -6,4 +6,5 @@ This programe aims at establishing a robust and failure-tolerant lane detection 
 2. Python 3.5
 3. Matlab 2018a
 
-![img](C:\Users\shun.yang\Desktop\1.png)
+![img](https://github.com/LevineYang/lane_detection_LKA/blob/master/img.png)
+
